@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="24ffe150-c810-4f9b-85a3-15df4d3caa2f" name="bootcamp-coders.cnm.edu">
+        <fileTransfer rootFolder="/home/knatseway/public_html/phase-2-prework" accessType="SFTP" host="bootcamp-coders.cnm.edu" port="22" sshConfigId="fa8b4b41-08ef-4631-8721-0329ac91144a" sshConfig="knatseway@bootcamp-coders.cnm.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
